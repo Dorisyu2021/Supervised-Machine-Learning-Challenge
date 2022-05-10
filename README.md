@@ -35,3 +35,5 @@ The data going into these models was never scaled, an important step in preproce
 
 Fit and score the LogisticRegression and RandomForestClassifier models on the scaled data. How do the model scores compare to each other, and to the previous results on unscaled data? How does this compare to my prediction? 
 
+There is a screenshot of my work:
+![p!](Screenshot_1.png)
